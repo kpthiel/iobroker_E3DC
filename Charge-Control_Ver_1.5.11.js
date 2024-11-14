@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 //------------------------------------------------------------------------------------------------------
 //++++++++++++++++++++++++++++++++++++++++++  USER ANPASSUNGEN +++++++++++++++++++++++++++++++++++++++++
 const LogparserSyntax = true                                                                            // Wenn true wird die LOG Ausgabe an Adapter Logparser angepasst
